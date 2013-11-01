@@ -21,3 +21,10 @@ pom.xml.*
 local.properties
 build.xml
 proguard-project.txt
+
+*.idea
+*.gradle
+
+library/build/*
+
+*.iml
