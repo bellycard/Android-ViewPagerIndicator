@@ -25,6 +25,7 @@ proguard-project.txt
 *.idea
 *.gradle
 
+!build.gradle
 library/build/*
 
 *.iml
